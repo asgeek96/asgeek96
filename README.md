@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asgeek96
-- 👀 I’m interested in Frontzend Development and Cyber-Security
+- 👀 I’m interested in Frontend Development and Cyber-Security
 - 🌱 I’m currently learning Ethical Hacking
 - 📫 You can reach me on my mail asgeek96@gmail.com
 

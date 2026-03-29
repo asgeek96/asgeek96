@@ -71,14 +71,15 @@ Power BI • SQL Server • MySQL • PostgreSQL • Snowflake • SSIS • SSAS
 
 ## 📊 Sales Dashboard
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="700"/>
+  <img src="https://raw.githubusercontent.com/asgeek96/Sales-Analytics-PowerBI/main/images/sales-dashboard.png" width="700"/>
 </p>
 
-- Built interactive Power BI dashboard for revenue insights  
-- Analyzed regional and product performance  
-- Delivered actionable business insights  
+- End-to-end Sales Analytics solution using SQL Server & Power BI  
+- Designed star schema data model  
+- Implemented DAX measures: YTD, MTD, YoY Growth, Profit Margin  
 
-🔗 [View Project](YOUR_GITHUB_LINK)
+🔗 [View Project](https://github.com/asgeek96/Sales-Analytics-PowerBI)
+
 
 ---
 

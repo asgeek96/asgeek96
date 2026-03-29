@@ -29,7 +29,7 @@
 
 # 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,visualstudio,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=powerbi,mysql,postgresql,git,github,visualstudio,cs,dotnet" />
 </p>
 
 Power BI • SQL Server • MySQL • PostgreSQL • Snowflake • SSIS • SSAS • Apache Airflow • Excel • Git • Visual Studio • C# • ASP.NET Core  

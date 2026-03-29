@@ -1,6 +1,6 @@
 <!-- 🔥 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A192F&height=200&section=header&text=Anubhav%20Srivastava&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/asgeek96/asgeek96/main/banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anubhav Srivastava</h1>

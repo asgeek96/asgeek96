@@ -38,8 +38,8 @@ Power BI • SQL Server • MySQL • PostgreSQL • Snowflake • SSIS • SSAS
 
 # 📄 Resume
 <p align="center">
-  <a href="https://github.com/asgeek96/resume/blob/main/Anubhav-Srivastava-Resume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-00F7FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" />
+  <a href="https://github.com/asgeek96/Anubhav-Srivastava-Resume/blob/main/Anubhav Srivastava Resume .pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 

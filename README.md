@@ -70,7 +70,9 @@ Power BI • SQL Server • MySQL • PostgreSQL • Snowflake • SSIS • SSAS
 
 ## 📊 Sales Dashboard
 <p align="center">
-  <img src="https://raw.githubusercontent.com/asgeek96/Sales-Analytics-PowerBI/main/images/sales-dashboard.png" width="700"/>
+  <a href="https://github.com/asgeek96/Sales-Analytics-PowerBI">
+    <img src="https://raw.githubusercontent.com/asgeek96/Sales-Analytics-PowerBI/main/images/sales-dashboard.png" width="700"/>
+  </a>
 </p>
 
 - End-to-end Sales Analytics solution using SQL Server & Power BI  

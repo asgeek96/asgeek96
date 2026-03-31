@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/asgeek96/asgeek96/main/ban.png" alt="banner" width="100%" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Anubhav Srivastava</h1>
 <h3 align="center">🚀 Data Analyst | Business Intelligence | Data Engineering</h3>
 
@@ -49,6 +48,7 @@ Power BI • SQL Server • MySQL • PostgreSQL • Snowflake • SSIS • SSAS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asgeek96&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asgeek96&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=asgeek96&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---

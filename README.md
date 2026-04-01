@@ -47,7 +47,7 @@ Power BI • SQL Server • MySQL • PostgreSQL • Snowflake • SSIS • SSAS
 # 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asgeek96&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asgeek96&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=@asgeek96&theme=nord" alt="@asgeek96 streak badge"/>
 </p>
 
 ---

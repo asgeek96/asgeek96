@@ -71,7 +71,7 @@ Power BI • SQL Server • MySQL • PostgreSQL • Snowflake • SSIS • SSAS
 ## 📊 Sales Dashboard
 <p align="center">
   <a href="https://github.com/asgeek96/Sales-Analytics-PowerBI">
-    <img src="https://raw.githubusercontent.com/asgeek96/Sales-Analytics-PowerBI/main/images/sales-dashboard.png" width="700"/>
+    <img width="1001" height="568" alt="image" src="https://github.com/user-attachments/assets/3d4e281c-f1f3-4009-9f38-6a6e45adc9d9" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ Power BI • SQL Server • MySQL • PostgreSQL • Snowflake • SSIS • SSAS
 - Designed star schema data model  
 - Implemented DAX measures: YTD, MTD, YoY Growth, Profit Margin  
 
-🔗 [View Project](https://github.com/asgeek96/Sales-Analytics-PowerBI)
+🔗 [View Project]((https://github.com/asgeek96/retail-data-warehouse.git))
 
 
 ---

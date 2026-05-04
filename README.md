@@ -68,45 +68,47 @@ Power BI • SQL Server • MySQL • PostgreSQL • Snowflake • SSIS • SSAS
 
 # 🚀 Featured Projects
 
-## 📊 Sales Dashboard
+👥 HR Employee Attrition Dashboard
 <p align="center">
-  <a href="https://github.com/asgeek96/Sales-Analytics-PowerBI">
-    <img width="1001" height="568" alt="image" src="https://github.com/user-attachments/assets/3d4e281c-f1f3-4009-9f38-6a6e45adc9d9" />
+  <a href="https://github.com/asgeek96/hr-attrition-powerbi-dashboard">
+    <img width="1001" height="568" alt="image" src="https://github.com/asgeek96/HR-Employee-Attrition-Dashboard/blob/main/HR%20Analytics%20%26%20Attrition%20Dashboard/Screenshot/HR%20Employee%20Attrition.png">
   </a>
 </p>
 
-- End-to-end Sales Analytics solution using SQL Server & Power BI  
-- Designed star schema data model  
-- Implemented DAX measures: YTD, MTD, YoY Growth, Profit Margin  
+2-page Power BI dashboard analysing attrition across 1,470 employees (IBM HR dataset, 35 features)
+DAX measures: Attrition Rate, Overtime Risk, Income Gap, Tenure Comparison
+Key finding: Overtime employees leave at 3× the rate; Sales Reps at 39.8% attrition — highest risk role
+Conditional formatting, age group binning via Power Query, satisfaction matrix with heatmap
+
+🔗 [View Project](https://github.com/asgeek96/HR-Employee-Attrition-Dashboard.git)
+
+🚚 Delivery Logistics Performance Dashboard
+<p align="center">
+  <a href="https://github.com/asgeek96/delivery-logistics-powerbi-dashboard">
+    <img src="https://github.com/asgeek96/delivery-logistics-powerbi-dashboard/blob/main/Logistics%20%26%20Delivery%20Performance%20Tracker/Screenshot/Operations%20Overview.png" width="900"/>
+  </a>
+</p>
+
+3-page dark-themed Power BI dashboard across 25,000 deliveries, 9 partners & 5 regions
+DAX measures: Delay Rate, On-Time Rate, Failed Deliveries, Avg Cost by Mode
+Key finding: Stormy weather causes 41% delays vs 16% in clear; Same Day costs 13% more than Standard
+Custom tooltip page, conditional formatting, treemap, cross-page slicers by region & weather
+
+🔗 [View Project](https://github.com/asgeek96/delivery-logistics-powerbi-dashboard.git)
+
+📊 Sales & Revenue Intelligence Dashboard
+<p align="center">
+  <a href="https://github.com/asgeek96/Sales-Analytics-PowerBI">
+    <img width="1001" height="568" alt="image" src="https://github.com/user-attachments/assets/3d4e281c-f1f3-4009-9f38-6a6e45adc9d9" />
+
+  </a>
+</p>
+
+End-to-end Sales Analytics solution using SQL Server & Power BI with star schema data model
+DAX measures: YTD, MTD, YoY Growth, Profit Margin, KPI tracking
+Identified high discount-driven profit losses and top-performing markets
 
 🔗 [View Project]((https://github.com/asgeek96/retail-data-warehouse.git))
-
-
----
-
-## 🚚 Supply Chain Analysis
-<p align="center">
-  <img src="YOUR_IMAGE_LINK" width="700"/>
-</p>
-
-- Identified bottlenecks in logistics operations  
-- Created KPI tracking dashboards  
-- Improved efficiency insights  
-
-🔗 [View Project](YOUR_GITHUB_LINK)
-
----
-
-## 🛢 Commodity Price Tracker
-<p align="center">
-  <img src="YOUR_IMAGE_LINK" width="700"/>
-</p>
-
-- Analyzed Gold, Silver & Oil trends  
-- Built time-series dashboards  
-- Provided financial insights  
-
-🔗 [View Project](YOUR_GITHUB_LINK)
 
 ---
 

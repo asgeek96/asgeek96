@@ -108,7 +108,7 @@ End-to-end Sales Analytics solution using SQL Server & Power BI with star schema
 DAX measures: YTD, MTD, YoY Growth, Profit Margin, KPI tracking
 Identified high discount-driven profit losses and top-performing markets
 
-🔗 [View Project]((https://github.com/asgeek96/retail-data-warehouse.git))
+🔗 [View Project](https://github.com/asgeek96/retail-data-warehouse.git)
 
 ---
 

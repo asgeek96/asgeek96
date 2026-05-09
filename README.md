@@ -12,111 +12,144 @@
 
 <!-- BADGES -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=asgeek96&label=Profile%20views&color=0e75b6&style=flat" />
-<img src="https://github-profile-trophy.vercel.app/?username=asgeek96&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://komarev.com/ghpvc/?username=asgeek96&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asgeek96&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ## 🧠 About Me
-- 📊 Data Analyst specializing in Business Intelligence & Data Engineering  
-- 📈 Building end-to-end dashboards and data solutions  
-- 🏗️ Experience with Data Warehousing, ETL pipelines & OLAP systems  
+
+- 📊 Data Analyst specializing in **Business Intelligence & Data Engineering**
+- 🏗️ 4+ years building enterprise ETL pipelines, OLAP cubes & Power BI dashboards at **TCS**
+- 🔄 Currently leading **DWH decommissioning** — migrating multi-dimensional SSAS cubes to Power BI
+- 🤖 Integrating **AI & OpenAI APIs** into analytics workflows
 - 🌱 Currently learning **Data Fabric**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,mysql,postgresql,git,github,visualstudio,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,visualstudio,cs,dotnet,azure" />
 </p>
 
-Power BI • SQL Server • MySQL • PostgreSQL • Snowflake • SSIS • SSAS • Apache Airflow • Excel • Git • Visual Studio • C# • ASP.NET Core  
+**BI & Analytics:** Power BI • DAX • SSAS • Excel  
+**Databases:** SQL Server • MySQL • PostgreSQL • Snowflake  
+**ETL & Engineering:** SSIS • Apache Airflow • API Integration (C#)  
+**Cloud & AI:** Azure (AZ-204) • OpenAI APIs • Prompt Engineering  
+**Programming:** C# • ASP.NET Core  
 
 ---
 
-# 📄 Resume
+## 📄 Resume
+
 <p align="center">
-  <a href="https://github.com/asgeek96/Anubhav-Srivastava-Resume/blob/main/Anubhav Srivastava Resume .pdf">
+  <a href="https://raw.githubusercontent.com/asgeek96/Anubhav-Srivastava-Resume/main/Anubhav_Srivastava_Resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🚀 Featured Projects
+
+### 👥 HR Employee Attrition Dashboard
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asgeek96&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=@asgeek96&theme=nord" alt="@asgeek96 streak badge"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asgeek96&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asgeek96/asgeek96/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-👥 HR Employee Attrition Dashboard
-<p align="center">
-  <a href="https://github.com/asgeek96/hr-attrition-powerbi-dashboard">
-    <img width="1001" height="568" alt="image" src="https://github.com/asgeek96/HR-Employee-Attrition-Dashboard/blob/main/HR%20Analytics%20%26%20Attrition%20Dashboard/Screenshot/HR%20Employee%20Attrition.png">
+  <a href="https://github.com/asgeek96/HR-Employee-Attrition-Dashboard">
+    <img width="900" alt="HR Employee Attrition Dashboard" src="https://github.com/asgeek96/HR-Employee-Attrition-Dashboard/blob/main/HR%20Analytics%20%26%20Attrition%20Dashboard/Screenshot/HR%20Employee%20Attrition.png">
   </a>
 </p>
 
-2-page Power BI dashboard analysing attrition across 1,470 employees (IBM HR dataset, 35 features)
-DAX measures: Attrition Rate, Overtime Risk, Income Gap, Tenure Comparison
-Key finding: Overtime employees leave at 3× the rate; Sales Reps at 39.8% attrition — highest risk role
-Conditional formatting, age group binning via Power Query, satisfaction matrix with heatmap
+2-page Power BI dashboard analysing attrition across 1,470 employees (IBM HR dataset, 35 features)  
+**DAX:** Attrition Rate, Overtime Risk, Income Gap, Tenure Comparison  
+**Key Finding:** Overtime employees leave at 3× the rate; Sales Reps at 39.8% attrition — highest risk role  
+Conditional formatting, age group binning via Power Query, satisfaction matrix with heatmap  
 
-🔗 [View Project](https://github.com/asgeek96/HR-Employee-Attrition-Dashboard.git)
+🔗 [View Project](https://github.com/asgeek96/HR-Employee-Attrition-Dashboard)
 
-🚚 Delivery Logistics Performance Dashboard
+---
+
+### 🚚 Delivery Logistics Performance Dashboard
 <p align="center">
   <a href="https://github.com/asgeek96/delivery-logistics-powerbi-dashboard">
     <img src="https://github.com/asgeek96/delivery-logistics-powerbi-dashboard/blob/main/Logistics%20%26%20Delivery%20Performance%20Tracker/Screenshot/Operations%20Overview.png" width="900"/>
   </a>
 </p>
 
-3-page dark-themed Power BI dashboard across 25,000 deliveries, 9 partners & 5 regions
-DAX measures: Delay Rate, On-Time Rate, Failed Deliveries, Avg Cost by Mode
-Key finding: Stormy weather causes 41% delays vs 16% in clear; Same Day costs 13% more than Standard
-Custom tooltip page, conditional formatting, treemap, cross-page slicers by region & weather
+3-page dark-themed Power BI dashboard across 25,000 deliveries, 9 partners & 5 regions  
+**DAX:** Delay Rate, On-Time Rate, Failed Deliveries, Avg Cost by Mode  
+**Key Finding:** Stormy weather causes 41% delays vs 16% in clear; Same Day costs 13% more than Standard  
+Custom tooltip page, conditional formatting, treemap, cross-page slicers by region & weather  
 
-🔗 [View Project](https://github.com/asgeek96/delivery-logistics-powerbi-dashboard.git)
-
-📊 Sales & Revenue Intelligence Dashboard
-<p align="center">
-  <a href="https://github.com/asgeek96/Sales-Analytics-PowerBI">
-    <img width="1001" height="568" alt="image" src="https://github.com/user-attachments/assets/3d4e281c-f1f3-4009-9f38-6a6e45adc9d9" />
-
-  </a>
-</p>
-
-End-to-end Sales Analytics solution using SQL Server & Power BI with star schema data model
-DAX measures: YTD, MTD, YoY Growth, Profit Margin, KPI tracking
-Identified high discount-driven profit losses and top-performing markets
-
-🔗 [View Project](https://github.com/asgeek96/retail-data-warehouse.git)
+🔗 [View Project](https://github.com/asgeek96/delivery-logistics-powerbi-dashboard)
 
 ---
 
-# 🌐 Connect With Me
+### 📊 Sales & Revenue Intelligence Dashboard
 <p align="center">
-<a href="https://www.linkedin.com/in/asgeek">
-<img src="https://img.shields.io/badge/LinkedIn-Anubhav%20Srivastava-blue?style=for-the-badge&logo=linkedin" />
-</a>
+  <a href="https://github.com/asgeek96/Sales-Analytics-PowerBI">
+    <img width="900" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/3d4e281c-f1f3-4009-9f38-6a6e45adc9d9" />
+  </a>
+</p>
+
+End-to-end Sales Analytics solution using SQL Server & Power BI with star schema data model  
+**DAX:** YTD, MTD, YoY Growth, Profit Margin, KPI tracking  
+Identified high discount-driven profit losses and top-performing markets across regions  
+
+🔗 [View Project](https://github.com/asgeek96/retail-data-warehouse)
+
+---
+
+## 🏆 Certifications
+
+| Category | Certification |
+|---|---|
+| ☁️ Cloud | Microsoft Certified: Azure Developer Associate (AZ-204) |
+| ☁️ Cloud | AZ-900: Azure Fundamentals |
+| 🗄️ Data | MySQL Bootcamp – Colt Steele |
+| 🗄️ Data | MySQL Assessment – Scored 100% |
+| 🤖 AI | Prompt Engineering for AI Bootcamp |
+| 🤖 AI | OpenAI & ChatGPT API for Developers |
+| 🤖 AI | Generative AI Mastermind |
+| 🔐 Security | Cyber Security Foundation – TCS |
+| 🔐 Security | Application Security Fundamentals |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asgeek96&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asgeek96&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asgeek96&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asgeek96/asgeek96/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/asgeek">
+    <img src="https://img.shields.io/badge/LinkedIn-Anubhav%20Srivastava-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---

@@ -90,8 +90,8 @@ Custom tooltip page, conditional formatting, treemap, cross-page slicers by regi
 
 ### 📊 Sales & Revenue Intelligence Dashboard
 <p align="center">
-  <a href="https://github.com/asgeek96/Sales-Analytics-PowerBI">
-    <img width="900" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/3d4e281c-f1f3-4009-9f38-6a6e45adc9d9" />
+  <a href="https://github.com/asgeek96/retail-data-warehouse">
+    <img width="900" alt="Sales Dashboard" src="https://github.com/asgeek96/retail-data-warehouse/blob/d001d4cce7e920f11c13cdaa8232928d72886bc1/retail-data-warehouse/screenshots/Executive%20Overview.png" />
   </a>
 </p>
 
